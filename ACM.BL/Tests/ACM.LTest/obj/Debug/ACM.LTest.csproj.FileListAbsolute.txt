@@ -1,0 +1,16 @@
+C:\Users\ssoni\source\repos\ACM.BL\Tests\ACM.LTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\ssoni\source\repos\ACM.BL\Tests\ACM.LTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\ssoni\source\repos\ACM.BL\Tests\ACM.LTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\ssoni\source\repos\ACM.BL\Tests\ACM.LTest\bin\Debug\ACM.LTest.dll
+C:\Users\ssoni\source\repos\ACM.BL\Tests\ACM.LTest\bin\Debug\ACM.LTest.pdb
+C:\Users\ssoni\source\repos\ACM.BL\Tests\ACM.LTest\bin\Debug\ACM.BL.dll
+C:\Users\ssoni\source\repos\ACM.BL\Tests\ACM.LTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\ssoni\source\repos\ACM.BL\Tests\ACM.LTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\ssoni\source\repos\ACM.BL\Tests\ACM.LTest\bin\Debug\ACM.BL.pdb
+C:\Users\ssoni\source\repos\ACM.BL\Tests\ACM.LTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\ssoni\source\repos\ACM.BL\Tests\ACM.LTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\ssoni\source\repos\ACM.BL\Tests\ACM.LTest\obj\Debug\ACM.LTest.csprojAssemblyReference.cache
+C:\Users\ssoni\source\repos\ACM.BL\Tests\ACM.LTest\obj\Debug\ACM.LTest.csproj.CoreCompileInputs.cache
+C:\Users\ssoni\source\repos\ACM.BL\Tests\ACM.LTest\obj\Debug\ACM.LTest.csproj.CopyComplete
+C:\Users\ssoni\source\repos\ACM.BL\Tests\ACM.LTest\obj\Debug\ACM.LTest.dll
+C:\Users\ssoni\source\repos\ACM.BL\Tests\ACM.LTest\obj\Debug\ACM.LTest.pdb
